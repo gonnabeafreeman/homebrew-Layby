@@ -1,4 +1,4 @@
-cask "Layby" do
+cask "layby" do
   version :latest
   sha256 :no_check
 
